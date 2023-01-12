@@ -43,9 +43,9 @@ export default function ClientSlider() {
   };
   return (
     <div>
-      <Slider {...settings}>
+      {/* <Slider {...settings}>
         <LogoWrapper className='flexCenter'>
-          <ImgStyle src={LogoMV} alt='client logo' />
+          <ImgStyle src={LogoMV} style={{width"80.691", height:"56.423"}} alt='client logo' />
         </LogoWrapper>
         <LogoWrapper className='flexCenter'>
           <ImgStyle src={ClientLogo02} alt='client logo' />
@@ -74,7 +74,7 @@ export default function ClientSlider() {
         <LogoWrapper className='flexCenter'>
           <ImgStyle src={ClientLogo02} alt='client logo' />
         </LogoWrapper>
-      </Slider>
+      </Slider> */}
     </div>
   );
 }
