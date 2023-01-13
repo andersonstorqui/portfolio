@@ -28,8 +28,8 @@ export default function Header() {
             <div>
               <p className='font15 whiteColor'>
                 <em>
-                  Desenvolvedor a mais de um ano, amplo conhecimento em ReactJS. Eterno estudante e
-                  apaixonado por tecnologia
+                  Desenvolvedor a mais de um ano, amplo conhecimento em ReactJS. Apaixonado por
+                  tecnologia.
                 </em>
               </p>
               <p className='font13 orangeColor textRight' style={{ marginTop: '10px' }}>

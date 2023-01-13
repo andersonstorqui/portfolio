@@ -53,7 +53,7 @@ export default function TopNavbar() {
                 smooth={true}
                 offset={-80}
               >
-                Services
+                Serviços
               </Link>
             </li>
             <li className='semiBold font15 pointer'>
@@ -65,7 +65,7 @@ export default function TopNavbar() {
                 smooth={true}
                 offset={-80}
               >
-                Projects
+                Projetos
               </Link>
             </li>
             {/* <li className='semiBold font15 pointer'>
@@ -101,7 +101,7 @@ export default function TopNavbar() {
                 smooth={true}
                 offset={-80}
               >
-                Contact
+                Contato
               </Link>
             </li>
           </UlWrapper>
